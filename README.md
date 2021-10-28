@@ -20,4 +20,4 @@ I'm Verindra Rizya a university student that's enthusiast about android developm
 <br>
 <br>
 
-![verindrarizya's github stats](https://github-readme-stats.vercel.app/api?username=verindrarizya&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=contribs)
+<!-- ![verindrarizya's github stats](https://github-readme-stats.vercel.app/api?username=verindrarizya&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=contribs) -->
