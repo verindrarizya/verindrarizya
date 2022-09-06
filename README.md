@@ -5,10 +5,6 @@ I'm Verindra Rizya a university student that's enthusiast about android developm
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verindra-rizya-4057a61a4/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.rizya22@gmail.com)
 
-### A little about myself
-- 🌱 I’m currently learning android development
-- ⚡ Fun fact: I love to watch fantasy movie like LOTR and a huge fans of One Piece
-
 ### Languange and Tools
 <a href="https://developer.android.com/" target="_blank"><img align="left" alt="Android" height="40"  src="https://iconape.com/wp-content/files/nd/33729/png/android-logomark.png" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img align="left" alt="Kotlin" height="40"  src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
