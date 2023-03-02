@@ -1,5 +1,5 @@
 ## Hi there 👋, Welcome to my Github
-I'm Verindra Rizya a university student that's enthusiast about android development
+I'm Verindra Rizya just someone that's enthusiast about android development
 
 ### Get in touch with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verindra-rizya-4057a61a4/)
